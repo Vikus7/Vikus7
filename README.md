@@ -4,7 +4,7 @@ Hola, mi nombre es Victor Rodriguez 👋
 
 
 
-Soy estudiante de Ingeniería de Software en la Escuela Politécnica Nacional del Ecuador, apacinado por el desarrollo de nuevas tecnologías relacionadas a la computación. He tenido la oportunidad de vincularme en proyectos de nivelación en Informática y también en impartir los fundamentos de programación por el momento dentro de mi institución.
+Soy estudiante de Ingeniería de Software en la Escuela Politécnica Nacional del Ecuador, apacionado por el desarrollo de nuevas tecnologías relacionadas a la computación. He tenido la oportunidad de vincularme en proyectos de nivelación en Informática y también en impartir los fundamentos del desarrollo de Software.
 
 ## Tecnologías:
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
